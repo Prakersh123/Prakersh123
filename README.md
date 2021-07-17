@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<hr>
+<h1>I'm Prakersh Arya</h1>
+<h3>Web Developer | Competitive Programmer</h3>
+<p>I am second year undergrad pursuing B.Tech in Computer Science & Engineering from REC-Sonbhadra. I aspire to be a great software engineer, I am very pationate about competitve programming and full stack web development. I always want to apply my skills on some practical projects to solve some real world problem. Beside study i enjoy playing chess, badminton , watching movies and travelling in my free time. </p>
+
+- 🌱 I’m currently learning MERN development.
+- - 🔭 I’m currently working on a project which is based on codeforces API and SpaceX API.
+- - 📫 How to reach me: prakersh009@gmail.com
+- - 🎴 Personal Portfolio: https://portfolio-8zbeg3q52-prakersh123.vercel.app/
 <!--
 **Prakersh123/Prakersh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
