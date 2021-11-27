@@ -7,6 +7,7 @@
 
 - - 📫 How to reach me: prakersh009@gmail.com
 - - 🎴 Personal Portfolio: https://portfolio-8zbeg3q52-prakersh123.vercel.app/
+- - Core Member of College Website Development Team. (http://recsonbhadra.ac.in/) 
 <!--
 **Prakersh123/Prakersh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
