@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 -->
 ![](https://github.com/Prakersh123/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Prakersh123/github-stats/blob/master/generated/languages.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Prakersh123)](https://github.com/ryo-ma/github-profile-trophy)
